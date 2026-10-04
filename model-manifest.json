@@ -1,0 +1,15 @@
+{
+  "format_version": 1,
+  "version": "food-extractor-v1",
+  "filename": "mealwise-qwen2.5-0.5b-instruct-q4_k_m.gguf",
+  "bytes": 397807456,
+  "sha256": "4cff339c4ed40d6e00742c46c34939d08b62f845c70faf4c4ed1e512b34b27e9",
+  "download_url": "https://github.com/AniketIndulkar/mealwise-models/releases/download/food-extractor-v1/mealwise-qwen2.5-0.5b-instruct-q4_k_m.gguf",
+  "quantization": "Q4_K_M",
+  "base_model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "training_base_model": "mlx-community/Qwen2.5-0.5B-Instruct-4bit",
+  "base_snapshot": "53a32aee5e9447773fd2b85988395066aef3700a",
+  "adapter_iteration": 1000,
+  "llama_cpp_tag": "b10516",
+  "license": "Apache-2.0"
+}

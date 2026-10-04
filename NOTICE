@@ -1,0 +1,11 @@
+MealWise Food Extractor v1
+Copyright 2026 Aniket Indulkar (MealWise modifications).
+
+Derived from Qwen2.5-0.5B-Instruct.
+Copyright 2024 Alibaba Cloud.
+Upstream: https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct
+License: Apache License, Version 2.0.
+
+The upstream model has been modified by MealWise LoRA fine-tuning, adapter
+fusion, GGUF conversion, and Q4_K_M quantization.
+The selected adapter was trained through iteration 1000.
